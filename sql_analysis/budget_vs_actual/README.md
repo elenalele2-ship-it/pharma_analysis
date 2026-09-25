@@ -69,7 +69,7 @@ Almost all products in both lists have a unit price above the median (31,485 PLN
 
 To distinguish "product on the list just because it's expensive" from "product with a genuinely anomalous sales gap," `p_unit` (price) and `gap_units` (unit gap, without the price multiplier) are compared directly for the extreme products across the three years.
 
-*[Scatter plot: Price (PLN) vs. Unit gap, extreme products 2023-2025]*
+![Price vs unit gap scatter plot](../../../charts/price_vs_unit_gap_scatter.png)
 
 **How to read it:**
 - High price + high gap_units → strong case in both directions
