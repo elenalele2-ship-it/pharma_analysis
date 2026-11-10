@@ -39,6 +39,8 @@ The gap between sales and budget in **units** is similar between 2023 and 2024 (
 | 2024 | 391,573 | 157,866 | 549,439 |
 | 2025 | 521,305 | 211,590 | 732,895 |
 
+![Variance by price tier](../../charts/variance_by_price_tier.png)
+
 **2023 → 2024:** mix-shift hypothesis confirmed — the High tier drops (-100k), the Low tier rises (+29k). The total decline is explained almost entirely by the collapse of the high tier.
 
 **2025:** breaks the pattern — both tiers grow, no longer a shift between tiers but a generalized increase in over-budget performance.
@@ -54,7 +56,7 @@ The gap between sales and budget in **units** is similar between 2023 and 2024 (
 | 2025 | 259,737 | 280,919 | 21,182 |
 
 The budget grows steadily (253k → 258k → 260k) — it does not become more conservative in 2025. The jump in the gap is therefore explained by a genuine acceleration in actual sales: growth from 2024 to 2025 (+8,853 units) is nearly double the growth from 2023 to 2024 (+4,872 units).
-
+![Units gap by year](../../charts/units_gap_by_year.png)
 ---
 
 ## 5. Products at the extremes (2025)
